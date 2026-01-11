@@ -20,6 +20,7 @@ The existing interface feels visually crowded in dark mode, making it harder to 
 
 ## Tools Used
 - Figma
+- https://github.com/santhru138/ui-design/blob/531bee122343a207ca2b0904652a2e8bed578388/santhru(3).png
 
 ## Project Type
 Concept UI Design (Learning Project)
